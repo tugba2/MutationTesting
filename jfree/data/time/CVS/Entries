@@ -1,0 +1,29 @@
+/DateRange.java/1.5/Thu May 19 10:35:27 2005//
+/Day.java/1.7/Thu May 19 10:35:27 2005//
+/DynamicTimeSeriesCollection.java/1.11/Fri May 20 08:20:03 2005//
+/FixedMillisecond.java/1.4/Thu May 19 10:35:27 2005//
+/Hour.java/1.5/Thu May 19 10:35:27 2005//
+/Millisecond.java/1.5/Thu May 19 10:35:27 2005//
+/Minute.java/1.5/Thu May 19 10:35:27 2005//
+/Month.java/1.8/Wed Nov  2 13:33:44 2005//
+/MovingAverage.java/1.5/Fri May 20 08:20:03 2005//
+/Quarter.java/1.6/Thu May 19 10:35:27 2005//
+/RegularTimePeriod.java/1.6/Tue Mar 15 21:50:37 2005//
+/Second.java/1.6/Thu May 19 10:35:27 2005//
+/SimpleTimePeriod.java/1.5/Thu May 19 10:35:27 2005//
+/TimePeriod.java/1.3/Tue Mar 15 21:50:37 2005//
+/TimePeriodAnchor.java/1.5/Thu May 19 10:35:27 2005//
+/TimePeriodFormatException.java/1.3/Tue Mar 15 21:50:36 2005//
+/TimePeriodValue.java/1.4/Thu May 19 10:35:27 2005//
+/TimePeriodValues.java/1.8/Thu May 19 10:35:27 2005//
+/TimePeriodValuesCollection.java/1.10/Fri May 20 08:20:03 2005//
+/TimeSeries.java/1.11/Thu Nov 17 12:45:41 2005//
+/TimeSeriesCollection.java/1.11/Wed Dec 14 14:30:45 2005//
+/TimeSeriesDataItem.java/1.5/Thu May 19 10:35:27 2005//
+/TimeSeriesTableModel.java/1.3/Tue Mar 15 21:50:36 2005//
+/TimeTableXYDataset.java/1.10/Fri May 20 08:20:03 2005//
+/Week.java/1.8/Thu Apr  6 13:45:00 2006//
+/Year.java/1.9/Thu May 19 10:35:27 2005//
+D/junit////
+D/ohlc////
+/package.html/1.1/Tue Aug 31 15:34:17 2004//

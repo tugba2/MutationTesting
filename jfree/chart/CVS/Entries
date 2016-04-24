@@ -1,0 +1,56 @@
+/ChartColor.java/1.4/Thu Nov  3 13:23:54 2005//
+/ChartFactory.java/1.27/Thu Jan 26 12:03:16 2006//
+/ChartFrame.java/1.3/Fri Feb  4 09:22:09 2005//
+/ChartMouseEvent.java/1.3/Thu May 19 15:40:56 2005//
+/ChartMouseListener.java/1.2/Mon Mar 28 19:38:39 2005//
+/ChartPanel.java/1.23/Fri Oct 14 09:45:35 2005//
+/ChartRenderingInfo.java/1.5/Wed Nov  2 13:13:13 2005//
+/ChartUtilities.java/1.4/Mon Mar 28 19:38:39 2005//
+/ClipPath.java/1.2/Mon Mar 28 19:38:39 2005//
+/DrawableLegendItem.java/1.3/Mon Mar 28 19:38:39 2005//
+/Effect3D.java/1.2/Mon Mar 28 19:38:38 2005//
+/JFreeChart.java/1.40/Wed Nov 23 14:17:31 2005//
+/LegendItem.java/1.13/Mon Dec 12 14:11:31 2005//
+/LegendItemCollection.java/1.4/Thu May 19 14:02:37 2005//
+/LegendItemSource.java/1.1/Wed Feb 23 11:17:27 2005//
+/LegendRenderingOrder.java/1.4/Thu May 19 15:40:55 2005//
+/LocalizationBundle.properties/1.2/Fri Nov 12 09:29:47 2004//
+/LocalizationBundle_de.properties/1.3/Tue Nov 22 15:40:42 2005//
+/LocalizationBundle_es.properties/1.2/Wed Jun 29 16:17:19 2005//
+/LocalizationBundle_fr.properties/1.2/Wed Jun 29 16:17:19 2005//
+/LocalizationBundle_it.properties/1.2/Wed Jun 29 16:17:19 2005//
+/LocalizationBundle_nl.properties/1.2/Wed Jun 29 16:17:19 2005//
+/LocalizationBundle_pl.properties/1.2/Wed Jun 29 16:17:19 2005//
+/LocalizationBundle_pt_PT.properties/1.2/Wed Jun 29 16:17:19 2005//
+/LocalizationBundle_ru.properties/1.2/Wed Jun 29 16:17:19 2005//
+/LocalizationBundle_zh_CN.properties/1.2/Wed Jun 29 16:17:19 2005//
+/LocalizationBundle_zh_TW.properties/1.2/Wed Jun 29 16:17:19 2005//
+/NestedGrid.java/1.5/Fri Oct 28 10:17:43 2005//
+/NestedGridArrangement.java/1.3/Wed Nov 16 10:05:59 2005//
+/NestedGridKey.java/1.1/Fri Jun 17 09:31:50 2005//
+/PolarChartPanel.java/1.2/Wed Feb 23 22:44:24 2005//
+/StandardArrangement.java/1.3/Wed Nov 16 10:05:59 2005//
+D/annotations////
+D/axis////
+D/block////
+D/demo////
+D/editor////
+D/encoders////
+D/entity////
+D/event////
+/gorilla.jpg/1.1/Tue Aug 31 15:19:20 2004/-kb/
+D/imagemap////
+D/junit////
+D/labels////
+D/needle////
+/package.html/1.1/Tue Aug 31 15:19:59 2004//
+D/plot////
+D/renderer////
+D/resources////
+D/servlet////
+D/title////
+D/tooltips////
+D/ui////
+D/urls////
+D/util////
+D/xml////
