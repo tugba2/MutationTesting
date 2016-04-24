@@ -7,3 +7,4 @@ Tests for these classes are: RangeTest.java and DataUtilitiesTest.java. Jumble i
 
 We get 88% score for Range class.
 
+![Alt text](https://github.com/tugba2/MutationTesting/blob/master/resources/range_output.png "Mutation Test Results for Range")
