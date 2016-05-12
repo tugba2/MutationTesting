@@ -12,8 +12,7 @@ We get 88% score for Range class.
 <img src="https://github.com/tugba2/MutationTesting/blob/master/resources/range_output.png" width="60%" height="60%">
 
 
-Mutation Test Results for DataUtilities 
-------
+<a href="http://www.jfree.org/jfreechart/">JFreeChart</a>
 
 
 
